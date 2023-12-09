@@ -9,6 +9,6 @@ entries:
     name: datascientest
     type: application
     urls:
-    - git@github.com:kamil-amari/chart-k8s.git/master/datascientest-0.1.0.tgz
+    - git@github.com:kamil-amari/chart-k8s.git/datascientest-0.1.0.tgz
     version: 0.1.0
 generated: "2023-12-09T08:53:35.602713756Z"
